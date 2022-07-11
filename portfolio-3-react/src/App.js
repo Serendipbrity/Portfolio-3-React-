@@ -2,7 +2,9 @@
 import React from 'react';
 import About from './components/About';
 import Nav from './components/Nav';
+import ContactForm from './components/Contact';
 import './App.css';
+import './index'
 
 function App() {
   return (
@@ -10,7 +12,8 @@ function App() {
       <Nav />
       <main>
         <About />
-      </main>
+        <ContactForm />
+        </main>
     </div>
   );
 }
