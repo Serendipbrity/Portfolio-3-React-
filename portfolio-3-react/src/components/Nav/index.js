@@ -9,20 +9,17 @@ function Nav() {
   return (
     <header>
       <nav>
-        <ul className="flex-row">
-          <li className="mx-2">
-            <a href="#name">Brittani Court</a>
-          </li>
-          <li className="mx-2">
+        <ul class='flex-row' id='name'>Brittani Court
+          <li>
             <a href="#about">About Me</a>
           </li>
-          <li className="mx-2">
-            <a href="#portfolio">Portfolio </a>
+          <li>
+            <a href="#projectHeader">Portfolio </a>
           </li>
-          <li className="mx-2">
+          <li>
             <a href="#contact">Contact </a>
           </li>
-          <li className="mx-2">
+          <li>
             <a href="#resume">Resume </a>
           </li>
         </ul>
