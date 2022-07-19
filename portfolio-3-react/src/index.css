@@ -15,8 +15,8 @@
   box-sizing: border-box;
   background-image: url('../src/assets/images/mathias-reding-26af4do70fk-unsplash.jpg');
   background-attachment: fixed;
-  /* background-position: 100%; */
-  /* background-repeat: none; */
+  background-position: 100%; 
+  /* /* background-repeat: none; */
   background-size:cover; 
   background-position: center;
   /* object-fit: contain; */
@@ -60,9 +60,17 @@ nav a:hover {
 
 
 /* align nav bar/footer options in a row */
-.flex-row {
+/* .flex-row { */
   /* display: flex; */
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
+/* } */
+
+.navLink {
+  font-weight:200;
+	border-radius: 2px;
+	padding: 2px 4px;	
+  margin: 10px;
+  text-decoration: none;
 }
 
 
@@ -98,9 +106,18 @@ p {
 
 /* "Projects" title */
 #projectHeader {
-  font-size: 40px;
+  font-size: 50px;
   margin: 20px;
   color: var(--light);
+  justify-content: center;
+}
+
+/* all project titles */
+.projTitles {
+  color: var(--light);
+  font-size: 40px;
+  margin-bottom: 10px;
+  padding-left: 35px;
 }
 
 .left, .right {
@@ -116,14 +133,17 @@ p {
 }
 /* all projects */
 .proj1, .proj2, .proj3, .proj4, .proj5, .proj6 {
-  padding: 35px;
+  padding: 30px;
   margin: 40px;
   background-size: contain;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-size:cover; 
   background-position: center;
-  color: var(--light);
-  font-size: 30px;
+  color: var(--dark);
+  font-size: 50px;
+  font-weight: 700;
+  text-decoration: none;
+
 }
 /* project one Gators Newsletter */
 .proj1 {
@@ -144,19 +164,29 @@ background-image: url('../../portfolio-3-react/src/assets/images/BookSearch.png'
   background-image: url('../../portfolio-3-react/src/assets/images/Deep-Thoughts.png');
   }
 
-  .proj5 {
-    background-image: url('../../portfolio-3-react/src/assets/images/Deep-Thoughts.png');
-    }
+.proj5 {
+  background-image: url('../../portfolio-3-react/src/assets/images/Zookeeper.png');
+  }
 
-    .proj6 {
-      background-image: url('../../portfolio-3-react/src/assets/images/Deep-Thoughts.png');
-      }
+.proj6 {
+  background-image: url('../../portfolio-3-react/src/assets/images/Pizza-Hunt.png');
+  }
 
 
 /* ------- RESUME SECTION ---------- */
-#resume {
-  font-size: 40px;
-  color: var(--light);
+.resume {
+  color: var(--dark);
+  background-image: url('../../portfolio-3-react/src/assets/images/Resume.png');
+  background-size: contain;
+  /* background-attachment: fixed; */
+  /* background-size:cover;  */
+  background-position: center;
+  text-align: center;
+  padding-top: 150px;
+  font-size: 50px;
+  font-weight: 700;
+  text-decoration: none;
+  background-position: 100%;
 }
 
 /* -------- CONTACT ME SECTION ------------ */
@@ -231,19 +261,21 @@ button:hover {
 }
 
 /* all links */
-a {
+/* a {
   font-weight:200;
 	border-radius: 2px;
 	padding: 2px 4px;	
   margin: 10px;
-  text-decoration: double;
-}
+} */
 /* -------FOOTER SECTION ---------- */
-footer {
+.footerLinks {
+  background-image: url('../../portfolio-3-react/src/assets/images/mathias-reding-26af4do70fk-unsplash.jpg');
   text-align: center;
   justify-content: space-between;
-  padding: 50px;
-  margin: 20px;
+  justify-content: center;
+  padding: 60px;
+  margin-left: 70px;
   font-weight: bold;
-  font-size: larger;
+  font-size: 40px;
+  color: #fff;
 }

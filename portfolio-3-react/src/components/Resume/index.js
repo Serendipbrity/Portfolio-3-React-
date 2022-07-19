@@ -3,7 +3,7 @@ import photo from '../../assets/downloads/Resume.pdf'
 
 function Resume() {
     return(
-        <a href={photo} id='resume'>Resume</a>
+        <a className='right' href={photo} id='resume'>Resume</a>
     )
 }
 

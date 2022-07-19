@@ -10,16 +10,16 @@ function Nav() {
     <header>
       <nav>
         <ul class='flex-row' id='name'>Brittani Court
-          <li>
+          <li class='navLink'>
             <a href="#about">About Me</a>
           </li>
-          <li>
+          <li class='navLink'>
             <a href="#projectHeader">Portfolio </a>
           </li>
-          <li>
+          <li class='navLink'>
             <a href="#contact">Contact </a>
           </li>
-          <li>
+          <li class='navLink'>
             <a href="#resume">Resume </a>
           </li>
         </ul>

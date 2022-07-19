@@ -18,9 +18,13 @@ function App() {
       <Nav />
       <main>
         <About />
-        <Projects />
-        <Resume />
-        <ContactForm />
+        <div>
+          <Projects />
+        </div>
+        <div>
+          <ContactForm />
+          </div>
+        {/* <Resume /> */}
    
         {/* {!contactSelected ? (
           <>
