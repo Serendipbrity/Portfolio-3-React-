@@ -176,7 +176,7 @@ background-image: url('../../portfolio-3-react/src/assets/images/BookSearch.png'
 /* ------- RESUME SECTION ---------- */
 .resume {
   color: var(--dark);
-  background-image: url('../../portfolio-3-react/src/assets/images/Resume.png');
+  background-image: url('../../portfolio-3-react/src/assets/images/Res.png');
   background-size: contain;
   /* background-attachment: fixed; */
   /* background-size:cover;  */

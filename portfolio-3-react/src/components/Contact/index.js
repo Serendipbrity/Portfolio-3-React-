@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { validateEmail } from "../../utils/helpers";
-import photo from "../../assets/downloads/Resume.pdf";
 
 function ContactForm() {
   // empty values to clear the input fields on the component loading
@@ -82,7 +81,7 @@ function ContactForm() {
           </form>
         </div>
         <div class="col resume">
-          <a href={photo} class="resume">
+          <a href='https://docs.google.com/document/d/1mnrcTgO3zlY4ljqUmMeDe4T4X4y_y9suxLQ-7sMkS80/edit?usp=sharing' class="resume">
             Resume
           </a>
         </div>
