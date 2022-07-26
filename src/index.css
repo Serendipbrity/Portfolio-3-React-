@@ -13,7 +13,7 @@
 
 * {
   box-sizing: border-box;
-  background-image: url('../src/assets/images/mathias-reding-26af4do70fk-unsplash.jpg');
+  background-image: url('./assets/images/mathias-reding-26af4do70fk-unsplash.jpg');
   background-attachment: fixed;
   background-position: 100%; 
   /* /* background-repeat: none; */
@@ -147,36 +147,36 @@ p {
 }
 /* project one Gators Newsletter */
 .proj1 {
-  background-image: url('../../portfolio-3-react/src/assets/images/Gators.png');
+  background-image: url('./assets/images/Gators.png');
   
 }
 
 /* project two Belize Fire Station */
 .proj2 {
-  background-image: url('../../portfolio-3-react/src/assets/images/BelizeFS.png');
+  background-image: url('./assets/images/Gators.png');
 }
 
 .proj3 {
-background-image: url('../../portfolio-3-react/src/assets/images/BookSearch.png');
+background-image: url('./assets/images/BookSearch.png');
 }
 
 .proj4 {
-  background-image: url('../../portfolio-3-react/src/assets/images/Deep-Thoughts.png');
+  background-image: url('./assets/images/Deep-Thoughts.png');
   }
 
 .proj5 {
-  background-image: url('../../portfolio-3-react/src/assets/images/Zookeeper.png');
+  background-image: url('./assets/images/Zookeeper.png');
   }
 
 .proj6 {
-  background-image: url('../../portfolio-3-react/src/assets/images/Pizza-Hunt.png');
+  background-image: url('./assets/images/Pizza-Hunt.png');
   }
 
 
 /* ------- RESUME SECTION ---------- */
 .resume {
   color: var(--dark);
-  background-image: url('../../portfolio-3-react/src/assets/images/Res.png');
+  background-image: url('./assets/images/Res.png');
   background-size: contain;
   /* background-attachment: fixed; */
   /* background-size:cover;  */
@@ -269,7 +269,7 @@ button:hover {
 } */
 /* -------FOOTER SECTION ---------- */
 .footerLinks {
-  background-image: url('../../portfolio-3-react/src/assets/images/mathias-reding-26af4do70fk-unsplash.jpg');
+  background-image: url('/assets/images/mathias-reding-26af4do70fk-unsplash.jpg');
   text-align: center;
   justify-content: space-between;
   justify-content: center;
