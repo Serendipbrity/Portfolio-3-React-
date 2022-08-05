@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-3-react-/static/css/main.69643685.css",
-    "main.js": "/portfolio-3-react-/static/js/main.d2438dad.js",
-    "static/js/787.5b486bd1.chunk.js": "/portfolio-3-react-/static/js/787.5b486bd1.chunk.js",
-    "static/media/mathias-reding-26af4do70fk-unsplash.jpg": "/portfolio-3-react-/static/media/mathias-reding-26af4do70fk-unsplash.02c85512dee3b4293964.jpg",
-    "static/media/Gators.png": "/portfolio-3-react-/static/media/Gators.2bc167c8fec190e6d01d.png",
-    "static/media/Pizza-Hunt.png": "/portfolio-3-react-/static/media/Pizza-Hunt.c60783ddd0c4a30aa943.png",
-    "static/media/BookSearch.png": "/portfolio-3-react-/static/media/BookSearch.2e13a59f591d5bdffd01.png",
-    "static/media/Me.jpeg": "/portfolio-3-react-/static/media/Me.02153956fe03eafb01f9.jpeg",
-    "static/media/Res.png": "/portfolio-3-react-/static/media/Res.2032b839d1b30ff05a76.png",
-    "static/media/Deep-Thoughts.png": "/portfolio-3-react-/static/media/Deep-Thoughts.9fac6d6a9e130e464ca4.png",
-    "static/media/GameSaver.png": "/portfolio-3-react-/static/media/GameSaver.25068e5bae3bc7d09f9a.png",
-    "index.html": "/portfolio-3-react-/index.html",
-    "main.69643685.css.map": "/portfolio-3-react-/static/css/main.69643685.css.map",
-    "main.d2438dad.js.map": "/portfolio-3-react-/static/js/main.d2438dad.js.map",
-    "787.5b486bd1.chunk.js.map": "/portfolio-3-react-/static/js/787.5b486bd1.chunk.js.map"
+    "main.css": "/Portfolio-3-React-/static/css/main.7177df20.css",
+    "main.js": "/Portfolio-3-React-/static/js/main.c45021bd.js",
+    "static/js/787.5b486bd1.chunk.js": "/Portfolio-3-React-/static/js/787.5b486bd1.chunk.js",
+    "static/media/mathias-reding-26af4do70fk-unsplash.jpg": "/Portfolio-3-React-/static/media/mathias-reding-26af4do70fk-unsplash.02c85512dee3b4293964.jpg",
+    "static/media/Gators.png": "/Portfolio-3-React-/static/media/Gators.2bc167c8fec190e6d01d.png",
+    "static/media/Pizza-Hunt.png": "/Portfolio-3-React-/static/media/Pizza-Hunt.c60783ddd0c4a30aa943.png",
+    "static/media/BookSearch.png": "/Portfolio-3-React-/static/media/BookSearch.2e13a59f591d5bdffd01.png",
+    "static/media/Me.jpeg": "/Portfolio-3-React-/static/media/Me.02153956fe03eafb01f9.jpeg",
+    "static/media/Res.png": "/Portfolio-3-React-/static/media/Res.2032b839d1b30ff05a76.png",
+    "static/media/Deep-Thoughts.png": "/Portfolio-3-React-/static/media/Deep-Thoughts.9fac6d6a9e130e464ca4.png",
+    "static/media/GameSaver.png": "/Portfolio-3-React-/static/media/GameSaver.25068e5bae3bc7d09f9a.png",
+    "index.html": "/Portfolio-3-React-/index.html",
+    "main.7177df20.css.map": "/Portfolio-3-React-/static/css/main.7177df20.css.map",
+    "main.c45021bd.js.map": "/Portfolio-3-React-/static/js/main.c45021bd.js.map",
+    "787.5b486bd1.chunk.js.map": "/Portfolio-3-React-/static/js/787.5b486bd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69643685.css",
-    "static/js/main.d2438dad.js"
+    "static/css/main.7177df20.css",
+    "static/js/main.c45021bd.js"
   ]
 }
