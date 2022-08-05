@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-3-react/static/css/main.126b6ed9.css",
+    "main.js": "/portfolio-3-react/static/js/main.4195c706.js",
+    "static/js/787.acf0cff5.chunk.js": "/portfolio-3-react/static/js/787.acf0cff5.chunk.js",
+    "static/media/Gators.png": "/portfolio-3-react/static/media/Gators.2bc167c8fec190e6d01d.png",
+    "static/media/Pizza-Hunt.png": "/portfolio-3-react/static/media/Pizza-Hunt.c60783ddd0c4a30aa943.png",
+    "static/media/Zookeeper.png": "/portfolio-3-react/static/media/Zookeeper.233f54b73c53c189942d.png",
+    "static/media/BookSearch.png": "/portfolio-3-react/static/media/BookSearch.2e13a59f591d5bdffd01.png",
+    "static/media/Me.jpeg": "/portfolio-3-react/static/media/Me.02153956fe03eafb01f9.jpeg",
+    "static/media/Res.png": "/portfolio-3-react/static/media/Res.2032b839d1b30ff05a76.png",
+    "static/media/Deep-Thoughts.png": "/portfolio-3-react/static/media/Deep-Thoughts.9fac6d6a9e130e464ca4.png",
+    "index.html": "/portfolio-3-react/index.html",
+    "main.126b6ed9.css.map": "/portfolio-3-react/static/css/main.126b6ed9.css.map",
+    "main.4195c706.js.map": "/portfolio-3-react/static/js/main.4195c706.js.map",
+    "787.acf0cff5.chunk.js.map": "/portfolio-3-react/static/js/787.acf0cff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126b6ed9.css",
+    "static/js/main.4195c706.js"
+  ]
+}
