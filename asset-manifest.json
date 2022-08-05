@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-3-react/static/css/main.763e7837.css",
-    "main.js": "/portfolio-3-react/static/js/main.4195c706.js",
+    "main.js": "/portfolio-3-react/static/js/main.ecafb304.js",
     "static/js/787.acf0cff5.chunk.js": "/portfolio-3-react/static/js/787.acf0cff5.chunk.js",
     "static/media/mathias-reding-26af4do70fk-unsplash.jpg": "/portfolio-3-react/static/media/mathias-reding-26af4do70fk-unsplash.02c85512dee3b4293964.jpg",
     "static/media/Gators.png": "/portfolio-3-react/static/media/Gators.2bc167c8fec190e6d01d.png",
@@ -13,11 +13,11 @@
     "static/media/Deep-Thoughts.png": "/portfolio-3-react/static/media/Deep-Thoughts.9fac6d6a9e130e464ca4.png",
     "index.html": "/portfolio-3-react/index.html",
     "main.763e7837.css.map": "/portfolio-3-react/static/css/main.763e7837.css.map",
-    "main.4195c706.js.map": "/portfolio-3-react/static/js/main.4195c706.js.map",
+    "main.ecafb304.js.map": "/portfolio-3-react/static/js/main.ecafb304.js.map",
     "787.acf0cff5.chunk.js.map": "/portfolio-3-react/static/js/787.acf0cff5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.763e7837.css",
-    "static/js/main.4195c706.js"
+    "static/js/main.ecafb304.js"
   ]
 }
