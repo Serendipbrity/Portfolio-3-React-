@@ -25,7 +25,7 @@ function Projects() {
                     <a class='proj5 right' href='https://github.com/Serendipbrity/ChickenDinner'>Github Repo</a>
             </div>
             </div>
-            <div class='row projTitles'>Book Search</div>
+            {/* <div class='row projTitles'>Book Search</div>
             <div class='row'>
             <div class='col proj3' >
                     <a class='proj3 left' href='https://serendipbrity.github.io/BookSearch2022/'>Website Link</a>
@@ -38,14 +38,7 @@ function Projects() {
                     <a class='proj4 left' href='https://guarded-ridge-02514.herokuapp.com/'>Website Link</a>
                     <a class='proj4 right' href='https://github.com/Serendipbrity/deep-thoughts'>Github Repo</a>
             </div>
-            </div>
-            <div class='row projTitles'>Pizza Hunt</div>
-        <div class='row'>
-            <div class='col proj6' >
-                    <a class='proj6 left' href='https://serendipbrity.github.io/pizza-hut/'>Website Link</a>
-                    <a class='proj6 right' href='https://github.com/Serendipbrity/pizza-hut'>Github Repo</a>
-                </div>
-         </div>
+            </div> */}
         </section>
     )
 }
