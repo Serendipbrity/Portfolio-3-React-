@@ -2,7 +2,7 @@
 import React from 'react';
 import About from './components/About';
 import Nav from './components/Nav';
-import ContactForm from './components/Contact';
+// import ContactForm from './components/Contact';
 import Projects from './components/Projects';
 // import Resume from './components/Resume';
 import Footer from './components/Footer';
@@ -22,7 +22,7 @@ function App() {
           <Projects />
         </div>
         <div>
-          <ContactForm />
+          {/* <ContactForm /> */}
           </div>
         {/* <Resume /> */}
    
