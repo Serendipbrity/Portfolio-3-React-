@@ -2,11 +2,11 @@ import React from "react";
 
 function Footer() {
     return (
-        <footer class='flex-row '>
-            <a class='footerLinks' href='https://www.linkedin.com/in/thanksfrom3rittani/'>LinkdIn</a>
-            <a class='footerLinks' href='https://github.com/Serendipbrity?tab=repositories'> Github</a>
-            <a id="contact" className="footerLinks" href="mailto:bcourt95@gmail.com">Email</a>
-            {/* <a class='footerLinks' href='https://angel.co/u/brittani-court'> AngelList</a> */}
+        <footer className='flex-row'>
+            <a className='footerLinks' href='https://www.linkedin.com/in/thanksfrom3rittani/'>LinkdIn</a>
+            <a className='footerLinks' href='https://github.com/Serendipbrity?tab=repositories'> Github</a>
+            <a className="footerLinks" href="mailto:bcourt95@gmail.com" id="contact">Email</a>
+            {/* <a className='footerLinks' href='https://angel.co/u/brittani-court'> AngelList</a> */}
         </footer>
     )
 }

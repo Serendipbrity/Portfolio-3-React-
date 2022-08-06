@@ -2,41 +2,41 @@ import React from "react";
 
 function Projects() {
     return (
-        <section class='container' id='projects'>
-            <div class='row' id='projectHeader'>Projects</div>
-            <div class='row projTitles'>Gators Newsletter</div>
-            <div class='row'> 
-                <div class='col proj1'>
-                <a class='proj1 left' href='https://serendipbrity.github.io/Gators-Newsletter/'>Website Link</a>
-                <a class='proj1 right' href='https://github.com/Serendipbrity/Gators-Newsletter'>Github Repo</a>
+        <section className='container' id='projects'>
+            <div className='row' id='projectHeader'>Projects</div>
+            <div className='row projTitles'>Gators Newsletter</div>
+            <div className='row projects'> 
+                <div className='col proj1'>
+                <a className='proj1 left projects' href='https://serendipbrity.github.io/Gators-Newsletter/'>Website Link</a>
+                <a className='proj1 right' href='https://github.com/Serendipbrity/Gators-Newsletter'>Github Repo</a>
                 </div>
             </div>
-            <div class='row projTitles'>Belize National Fire Station</div>
-            <div class='row'>
-            <div class='col proj2' >
-                <a class='proj2 left' href='https://belize-fire-dept.herokuapp.com/'>Website Link</a>
-                <a class='proj2 right' href='https://github.com/ppepin34/fire-dept'>Github Repo</a>
+            <div className='row projTitles'>Belize National Fire Station</div>
+            <div className='row projects'>
+            <div className='col proj2' >
+                <a className='proj2 left projects' href='https://belize-fire-dept.herokuapp.com/'>Website Link</a>
+                <a className='proj2 right' href='https://github.com/ppepin34/fire-dept'>Github Repo</a>
                 </div>
             </div>
-            <div class='row projTitles'>Game Saver</div>
-            <div class='row'>
-            <div class='col proj5' >
-                    <a class='proj5 left' href='https://safe-river-91585.herokuapp.com/'>Website Link</a>
-                    <a class='proj5 right' href='https://github.com/Serendipbrity/ChickenDinner'>Github Repo</a>
+            <div className='row projTitles'>Game Saver</div>
+            <div className='row projects'>
+            <div className='col proj5' >
+                    <a className='proj5 left projects' href='https://safe-river-91585.herokuapp.com/'>Website Link</a>
+                    <a className='proj5 right' href='https://github.com/Serendipbrity/ChickenDinner'>Github Repo</a>
             </div>
             </div>
-            {/* <div class='row projTitles'>Book Search</div>
-            <div class='row'>
-            <div class='col proj3' >
-                    <a class='proj3 left' href='https://serendipbrity.github.io/BookSearch2022/'>Website Link</a>
-                    <a class='proj3 right' href='https://github.com/Serendipbrity/BookSearch2022'>Github Repo</a>
+            {/* <div className='row projTitles'>Book Search</div>
+            <div className='row'>
+            <div className='col proj3' >
+                    <a className='proj3 left' href='https://serendipbrity.github.io/BookSearch2022/'>Website Link</a>
+                    <a className='proj3 right' href='https://github.com/Serendipbrity/BookSearch2022'>Github Repo</a>
             </div>
             </div>
-            <div class='row projTitles'>Deep Thoughts</div>
-            <div class='row'>
+            <div className='row projTitles'>Deep Thoughts</div>
+            <div className='row'>
             <div class='col proj4' >
-                    <a class='proj4 left' href='https://guarded-ridge-02514.herokuapp.com/'>Website Link</a>
-                    <a class='proj4 right' href='https://github.com/Serendipbrity/deep-thoughts'>Github Repo</a>
+                    <a className='proj4 left' href='https://guarded-ridge-02514.herokuapp.com/'>Website Link</a>
+                    <a className='proj4 right' href='https://github.com/Serendipbrity/deep-thoughts'>Github Repo</a>
             </div>
             </div> */}
         </section>

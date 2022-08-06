@@ -41,9 +41,9 @@ function ContactForm() {
   };
 
   return (
-    <section id="contact" class="container">
-      <div class="row">
-        <div class="col ">
+    <section id="contact" className="container">
+      <div className="row">
+        <div className="col ">
           <h1 id="contactMe">Contact Me</h1>
           <form id="contact-form" onSubmit={handleSubmit}>
             <div>
@@ -80,8 +80,8 @@ function ContactForm() {
             <button type="submit">Submit</button>
           </form>
         </div>
-        <div class="col resume">
-          <a href='https://docs.google.com/document/d/1mnrcTgO3zlY4ljqUmMeDe4T4X4y_y9suxLQ-7sMkS80/edit?usp=sharing' class="resume">
+        <div className="col resume">
+          <a href='https://docs.google.com/document/d/1mnrcTgO3zlY4ljqUmMeDe4T4X4y_y9suxLQ-7sMkS80/edit?usp=sharing' className="resume">
             Resume
           </a>
         </div>
