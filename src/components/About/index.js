@@ -13,12 +13,12 @@ function About() {
           </div>
           </div>
         <div className="col" id="aboutMe">
-            I am a professional in the field of software engineering. I chose
+            I'm a Full Stack Web Developer. My career goals are to work with, learn and grow
+            in a single company long term. I chose
             this field because it is challenging and offers a potential for
             exponential growth of knowledge and skill. I enjoy and take pride in
             overcoming challenges. I get along well with others. I enjoy working
-            in a team or solo. My career goals are to work with, learn and grow
-            in a single company long term.
+            in a team or solo. 
         </div>
       </div>
     </section>
